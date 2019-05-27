@@ -10,7 +10,6 @@ namespace VacationRental.Contact.Api.Controllers
     [ApiController]
     public class ContactController : ControllerBase
     {
-        private readonly IDictionary<int, ContactViewModel> _state;
         private readonly IDataRepository<ContactViewModel> _dataRepository;
 
         public ContactController(IDataRepository<ContactViewModel> dataRepository)
