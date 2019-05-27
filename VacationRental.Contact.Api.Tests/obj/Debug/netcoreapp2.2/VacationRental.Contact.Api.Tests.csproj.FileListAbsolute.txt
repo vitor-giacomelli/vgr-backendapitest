@@ -1,0 +1,17 @@
+E:\Projetos\backend_developer_test_netcore\VacationRental.Contact.Api.Tests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+E:\Projetos\backend_developer_test_netcore\VacationRental.Contact.Api.Tests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+E:\Projetos\backend_developer_test_netcore\VacationRental.Contact.Api.Tests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+E:\Projetos\backend_developer_test_netcore\VacationRental.Contact.Api.Tests\bin\Debug\netcoreapp2.2\VacationRental.Contact.Api.Tests.deps.json
+E:\Projetos\backend_developer_test_netcore\VacationRental.Contact.Api.Tests\bin\Debug\netcoreapp2.2\VacationRental.Contact.Api.Tests.runtimeconfig.json
+E:\Projetos\backend_developer_test_netcore\VacationRental.Contact.Api.Tests\bin\Debug\netcoreapp2.2\VacationRental.Contact.Api.Tests.runtimeconfig.dev.json
+E:\Projetos\backend_developer_test_netcore\VacationRental.Contact.Api.Tests\bin\Debug\netcoreapp2.2\VacationRental.Contact.Api.Tests.dll
+E:\Projetos\backend_developer_test_netcore\VacationRental.Contact.Api.Tests\bin\Debug\netcoreapp2.2\VacationRental.Contact.Api.Tests.pdb
+E:\Projetos\backend_developer_test_netcore\VacationRental.Contact.Api.Tests\bin\Debug\netcoreapp2.2\VacationRental.Contact.Api.dll
+E:\Projetos\backend_developer_test_netcore\VacationRental.Contact.Api.Tests\bin\Debug\netcoreapp2.2\VacationRental.Contact.Api.pdb
+E:\Projetos\backend_developer_test_netcore\VacationRental.Contact.Api.Tests\obj\Debug\netcoreapp2.2\VacationRental.Contact.Api.Tests.csprojAssemblyReference.cache
+E:\Projetos\backend_developer_test_netcore\VacationRental.Contact.Api.Tests\obj\Debug\netcoreapp2.2\VacationRental.Contact.Api.Tests.csproj.CoreCompileInputs.cache
+E:\Projetos\backend_developer_test_netcore\VacationRental.Contact.Api.Tests\obj\Debug\netcoreapp2.2\VacationRental.Contact.Api.Tests.AssemblyInfoInputs.cache
+E:\Projetos\backend_developer_test_netcore\VacationRental.Contact.Api.Tests\obj\Debug\netcoreapp2.2\VacationRental.Contact.Api.Tests.AssemblyInfo.cs
+E:\Projetos\backend_developer_test_netcore\VacationRental.Contact.Api.Tests\obj\Debug\netcoreapp2.2\VacationRental.Contact.Api.Tests.csproj.CopyComplete
+E:\Projetos\backend_developer_test_netcore\VacationRental.Contact.Api.Tests\obj\Debug\netcoreapp2.2\VacationRental.Contact.Api.Tests.dll
+E:\Projetos\backend_developer_test_netcore\VacationRental.Contact.Api.Tests\obj\Debug\netcoreapp2.2\VacationRental.Contact.Api.Tests.pdb

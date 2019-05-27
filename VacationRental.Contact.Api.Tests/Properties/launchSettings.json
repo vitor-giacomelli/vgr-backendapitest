@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "VacationRental.Contact.Api.Tests": {
+      "commandName": "Project"
+    },
+    "Docker": {
+      "commandName": "Docker"
+    }
+  }
+}
